@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428376179907",
+    "project_id": "restrotrack-eea78",
+    "storage_bucket": "restrotrack-eea78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428376179907:android:2b79e72462b3dd18be4e76",
+        "android_client_info": {
+          "package_name": "com.apptora.restrotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbfpN4IDF7g8DzGGBjLc3vHbhcaD3elY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
