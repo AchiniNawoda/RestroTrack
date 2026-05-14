@@ -3,13 +3,13 @@ Developed RestroTrack, a mobile based inventory management application tailored 
 Skills: Kotlin, Android Jetpack
 
 Thumbnail for barcode screen
-barcode screen<img width="412" height="917" alt="barcode screen 3" src="https://github.com/user-attachments/assets/f76436fb-b84a-4168-aa12-1b33d535ef37" />
+barcode screen<img width="212" height="417" alt="barcode screen 3" src="https://github.com/user-attachments/assets/f76436fb-b84a-4168-aa12-1b33d535ef37" />
 
 
-Thumbnail for Inventory all.png<img width="412" height="917" alt="Inventory all" src="https://github.com/user-attachments/assets/71d3d7e6-73ab-4c40-8747-405a92360a57" />
+Thumbnail for Inventory all.png<img width="212" height="417" alt="Inventory all" src="https://github.com/user-attachments/assets/71d3d7e6-73ab-4c40-8747-405a92360a57" />
 
 Inventory all.png
 
-Thumbnail for side bar menu<img width="412" height="917" alt="Notification" src="https://github.com/user-attachments/assets/9ef7c31e-18d6-4260-a6cf-9b4a27e57234" />
+Thumbnail for side bar menu<img width="212" height="4" alt="Notification" src="https://github.com/user-attachments/assets/9ef7c31e-18d6-4260-a6cf-9b4a27e57234" />
 
 side bar menu
