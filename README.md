@@ -10,6 +10,6 @@ Thumbnail for Inventory all.png<img width="212" height="417" alt="Inventory all"
 
 Inventory all.png
 
-Thumbnail for side bar menu<img width="212" height="4" alt="Notification" src="https://github.com/user-attachments/assets/9ef7c31e-18d6-4260-a6cf-9b4a27e57234" />
+Thumbnail for side bar menu<img width="212" height="417" alt="Notification" src="https://github.com/user-attachments/assets/9ef7c31e-18d6-4260-a6cf-9b4a27e57234" />
 
 side bar menu
